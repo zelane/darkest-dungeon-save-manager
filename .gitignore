@@ -88,3 +88,4 @@ ENV/
 .ropeproject
 .idea/
 config.json
+!/dist/main.exe
